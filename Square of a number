@@ -1,0 +1,5 @@
+r=int(input("Enter a number:"))
+def square():
+    return r*r
+result=square()
+print("Square of number:",square())
